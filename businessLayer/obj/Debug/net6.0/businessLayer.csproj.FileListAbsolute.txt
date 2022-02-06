@@ -1,0 +1,12 @@
+D:\HelloWorldSample\businessLayer\bin\Debug\net6.0\businessLayer.deps.json
+D:\HelloWorldSample\businessLayer\bin\Debug\net6.0\businessLayer.dll
+D:\HelloWorldSample\businessLayer\bin\Debug\net6.0\ref\businessLayer.dll
+D:\HelloWorldSample\businessLayer\bin\Debug\net6.0\businessLayer.pdb
+D:\HelloWorldSample\businessLayer\obj\Debug\net6.0\businessLayer.csproj.AssemblyReference.cache
+D:\HelloWorldSample\businessLayer\obj\Debug\net6.0\businessLayer.GeneratedMSBuildEditorConfig.editorconfig
+D:\HelloWorldSample\businessLayer\obj\Debug\net6.0\businessLayer.AssemblyInfoInputs.cache
+D:\HelloWorldSample\businessLayer\obj\Debug\net6.0\businessLayer.AssemblyInfo.cs
+D:\HelloWorldSample\businessLayer\obj\Debug\net6.0\businessLayer.csproj.CoreCompileInputs.cache
+D:\HelloWorldSample\businessLayer\obj\Debug\net6.0\businessLayer.dll
+D:\HelloWorldSample\businessLayer\obj\Debug\net6.0\ref\businessLayer.dll
+D:\HelloWorldSample\businessLayer\obj\Debug\net6.0\businessLayer.pdb
