@@ -10,6 +10,8 @@ foreach(var data in srv.GetWeatherData())
 
 string s1;
 
+
+
 Console.WriteLine("Completed!");
 Console.ReadKey();
 
