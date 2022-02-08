@@ -11,4 +11,6 @@
 # Built Visual Studio Code Extensions
 *.vsix
 businessLayer/obj
+businessLayer/bin
 ConsoleApp/obj
+ConsoleApp/bin
